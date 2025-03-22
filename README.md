@@ -1,5 +1,5 @@
 ## Hello mate 👋 
-## This is CHIA-KAI, TSAI, also known as kube
+## This is CHIA-KAI, TSAI
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kubekai)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kube1011@gmail.com)
