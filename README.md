@@ -1,4 +1,5 @@
-## 👋This is CHIA-KAI, TSAI
+## Hello mate 👋 
+## This is CHIA-KAI, TSAI, also known as kube
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kubekai)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kube1011@gmail.com)
@@ -17,8 +18,10 @@ Currently, I am a master's student at NCHU and a member of the Information Secur
 ## 👨‍💻 Programming languages and tools:
 
 <!-- GitHub stats image -->
-<img src="https://github-readme-stats.vercel.app/api?username=kubekai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kubekai&theme=tokyonight" alt="GitHub Streak Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kubekai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubekai&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
 
 <!-- Logos section -->
 <p align="center">
@@ -43,7 +46,9 @@ Currently, I am a master's student at NCHU and a member of the Information Secur
 </p>
 
 ## 🎯 GitHub Activity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubekai&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubekai&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinlon5566/dinlon5566/output/github-contribution-grid-snake-dark.svg">
