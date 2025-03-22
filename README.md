@@ -1,10 +1,10 @@
 ## Hello mate 👋 
-## This is CHIA-KAI,TSAI, also known as kube
+## This is CHIA-KAI, TSAI, also known as kube
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yh2der)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kubekai)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kube1011@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=yh2der&color=blueviolet&style=plastic&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=kubekai&color=blueviolet&style=plastic&abbreviated=true)
 
 ### About me
 
@@ -37,14 +37,13 @@ Currently, I am a master's student at NCHU and a member of the Information Secur
     </td>
     <td>
       <!-- GitHub stats image -->
-      <img src="https://github-readme-stats.vercel.app/api?username=yh2der&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yh2der&theme=tokyonight" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kubekai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubekai&theme=tokyonight" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
 
 ## 🎯 GitHub Activity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yh2der&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubekai&layout=compact&theme=tokyonight)
 
-![](https://raw.githubusercontent.com/yh2der/yh2der/refs/heads/output/github-contribution-grid-snake-dark.svg)
-
+![](https://raw.githubusercontent.com/kubekai/kubekai/refs/heads/output/github-contribution-grid-snake-dark.svg)
