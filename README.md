@@ -20,7 +20,7 @@ Currently, I am a master's student at NCHU and a member of the Information Secur
 <!-- GitHub stats image -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kubekai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubekai&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kubekai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <!-- Logos section -->
