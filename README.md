@@ -22,7 +22,7 @@ Currently, I am a master's student at NCHU and a member of the Information Secur
   <!-- GitHub 總覽統計 -->
   <img src="https://github-readme-stats.vercel.app/api?username=kubekai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <!-- GitHub 貢獻統計（貢獻數、最佳紀錄）-->
-  <img src="https://github-readme-streak-stats.demolab.com/?user=kubekai&theme=tokyonight" alt="GitHub Streak Stats" />
+  
 </p>
 
 
